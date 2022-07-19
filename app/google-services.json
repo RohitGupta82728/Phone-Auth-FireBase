@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "587879769069",
+    "project_id": "phone-auth-firebase-1b181",
+    "storage_bucket": "phone-auth-firebase-1b181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587879769069:android:9573d7a27a961b7bd87de4",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587879769069-2akghrabhkf45u7t6cbedint9csktav9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgi60DGM2fK3sYGqoCz0QSnzOio-39ghM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587879769069-2akghrabhkf45u7t6cbedint9csktav9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587879769069:android:4eca2934f5cd8aefd87de4",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587879769069-skf84o5gqnh4pt0gejbe0ihhft28s39t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth_firebase",
+            "certificate_hash": "976fcb615a4b9168f3c10f6be26e1456c84b2afb"
+          }
+        },
+        {
+          "client_id": "587879769069-2akghrabhkf45u7t6cbedint9csktav9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgi60DGM2fK3sYGqoCz0QSnzOio-39ghM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587879769069-2akghrabhkf45u7t6cbedint9csktav9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
